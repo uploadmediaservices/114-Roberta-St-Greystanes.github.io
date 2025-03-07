@@ -577,7 +577,7 @@ var APP_DATA = {
           "yaw": 3.0129301563535336,
           "pitch": 0.22107014015472615,
           "rotation": 0,
-          "target": "3-downstairs-bath"
+          "target": "8-downstairs"
         }
       ],
       "infoHotspots": []
@@ -923,7 +923,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "114 Roberta Street Greystanes",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
